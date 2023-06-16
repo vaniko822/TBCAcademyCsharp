@@ -1,0 +1,15 @@
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\bin\Debug\net7.0\Task 02.exe
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\bin\Debug\net7.0\Task 02.deps.json
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\bin\Debug\net7.0\Task 02.runtimeconfig.json
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\bin\Debug\net7.0\Task 02.dll
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\bin\Debug\net7.0\Task 02.pdb
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\Task 02.csproj.AssemblyReference.cache
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\Task 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\Task 02.AssemblyInfoInputs.cache
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\Task 02.AssemblyInfo.cs
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\Task 02.csproj.CoreCompileInputs.cache
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\Task 02.dll
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\refint\Task 02.dll
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\Task 02.pdb
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\Task 02.genruntimeconfig.cache
+C:\Users\VKukuchanashvili\Desktop\TBCAcademyCsharp\Assignment 02\Task 02\Task 02\obj\Debug\net7.0\ref\Task 02.dll
