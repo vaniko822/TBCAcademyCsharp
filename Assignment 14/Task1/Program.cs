@@ -4,7 +4,7 @@ Console.WriteLine("What functionality do you want to use: creating a quiz or fil
     + "1. Create quiz" + '\n'
     + "2. filling it out");
 
-const string path = @"C:/Users/VKukuchanashvili/Desktop/TBCAcademyCsharp/Assignment 14/Task1/bin/Debug/net7.0/quiz.txt";
+const string path = "quiz.txt";
 CreateQuiz quiz = new CreateQuiz(path);
 
 int choose = int.Parse(Console.ReadLine());
@@ -60,16 +60,15 @@ void EnterQuestions()
         Console.WriteLine("Enter Score: ");
         int score = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Enter answer quantity: ");
         List<string> options = new List<string>();
-        int answerQuantity = int.Parse(Console.ReadLine());
-        for (int i = 0; i < answerQuantity; i++)
+
+        for (int i = 0; i < 3; i++)
         {
             Console.WriteLine($"Enter {i + 1} answer: ");
             options.Add(Console.ReadLine());
         }
 
-        Console.WriteLine("Enter Correct Answer: ");
+        Console.WriteLine("Enter Correct Answer(Index): ");
         int correctAnswer = int.Parse(Console.ReadLine());
 
         quiz.AddQuestion(question, score, options, correctAnswer);
